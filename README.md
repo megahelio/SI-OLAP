@@ -3,7 +3,7 @@
 Repositorio para la asignatura de Sistemas de Información: OLAP del Máster en Ingeniería Informática.
 ## 🧾 Descripción
 
-Este repositorio contiene prácticas y ejercicios relacionados con el procesamiento analítico en línea (OLAP), incluyendo la creación de cubos multidimensionales y la realización de transformaciones de datos para análisis avanzado.
+Este repositorio contiene la práctica final donde se hace una pequeña demo de un proyecto OLAP usando un mini Data Warehouse, ETL con Pentaho Spoon y Tableau para crear unos paneles.
 ## 📁 Estructura del proyecto
 
   - Informe: Descripción y análisis de la práctica realizada.
